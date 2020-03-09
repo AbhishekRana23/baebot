@@ -2,6 +2,8 @@
   "name": "shell-bot",
   "private": true,
   "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js",
   "keywords": [
     "telegram",
     "bot",
