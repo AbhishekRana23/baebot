@@ -5,13 +5,6 @@
   "scripts": {
    "start": "node server.js",
   },
-  "keywords": [
-    "telegram",
-    "bot",
-    "shell",
-    "terminal",
-    "botgram"
-  ],
   "description": "Shellrunner Telegram bot",
   "homepage": "https://github.com/botgram/shell-bot",
   "dependencies": {
