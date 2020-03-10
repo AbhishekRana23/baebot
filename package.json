@@ -1,9 +1,10 @@
 {
-  "name": "shell-bot",
-  "version": "0.0.1",
+  "name": "mirror-bot",
+  "version": "2.0.0",
+  "description": "A telegram bot to mirror files to Google Drive",
   "main": "server.js",
   "scripts": {
-   "start": "node server.js",
+    "start": "node server.js"
   },
   "description": "Shellrunner Telegram bot",
   "homepage": "https://github.com/botgram/shell-bot",
