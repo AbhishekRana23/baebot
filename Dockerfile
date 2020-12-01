@@ -1,4 +1,5 @@
 FROM ubuntu:latest
+ARG DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt install -y curl
 RUN apt install -y make python build-essential
 RUN curl -sL https://deb.nodesource.com/setup_10.x | bash -
