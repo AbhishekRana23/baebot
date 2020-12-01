@@ -10,3 +10,4 @@ COPY . /bot
 WORKDIR /bot
 RUN chmod -R 777 /bot
 RUN npm install
+CMD node server
